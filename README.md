@@ -1,1 +1,1 @@
-"#PHS-SLS: phsmap.github.io/sls/"
+"#PHS-SLS: phsmap.github.io/fwd/"
